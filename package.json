@@ -16,5 +16,5 @@
     "engines": {
       "node": ">=4.0.0"
     },
-    "license": "BSD",
+    "license": "BSD"
 }
