@@ -1,0 +1,18 @@
+{
+    "name": "codemirror-buttons",
+    "version": "1.0.4",
+    "homepage": "https://github.com/samdark/codemirror-buttons",
+    "authors": {
+        "Alexander Makarov <sam@rmcreative.ru>"
+    },
+    "description": "CodeMirror buttons",
+    "main": "buttons.js",
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/walatech/codemirror-buttons.git"
+    },
+    "engines": {
+      "node": ">=4.0.0"
+    },
+    "license": "BSD",
+}
